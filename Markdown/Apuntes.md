@@ -15,7 +15,7 @@
 |ctrl + T|muestra todos los simbolos|
 |ctrl + space|genera sugerencias|
 
-## Workshop 2: 15 Nov Git
+## Workshop 2: Git
 
 |Comandos |
 |---------|
