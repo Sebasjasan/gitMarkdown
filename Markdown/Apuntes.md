@@ -1,23 +1,23 @@
 # Apuntes de programacion
 
-## Workshop 1: 14 Nov Introducion programacion
+## Workshop 1: Introducion programacion
 
 |Atajos |Utilidad  |
 |---------|----------|
 |gcc --version|para seber si tengo el compilador|
 |ctrl + |habre y cierra el terminal|
-|ctrl + shift + P|     |
+|ctrl + shift + P|   abre buscador|
 |ctrl + P| abridor rapido |
 |ctrl + B| abre explorador |
-|ctrl + D| selector muktiple |
+|ctrl + D| selector multiple |
 |shift + alt + up or shift + alt + down  |copia lineas|
-|shift + alt + A|**comment code block**|
+|shift + alt + A|bloque de codigo de comentario|
 |ctrl + T|muestra todos los simbolos|
 |ctrl + space|genera sugerencias|
 
 ## Workshop 2: 15 Nov Git
 
-|Comandos |Utilidad  |
+|Comandos | |
 |---------|----------|
 |git version||
 |pwd||
@@ -30,19 +30,41 @@
 |git confing --global user.name ""||
 |git confing --global user.email ""||
 
-## Workshop 3: 16 Nov Markdown
+## Workshop 3: Markdown
 
 En Markdown todos los archivos terminan en .md o .mdx.
 |Comandos||
 |---|---|
-|# heading level 1
-|## heading level 2
-|### heading level 3
-|#### heading level 4
-|##### heading level 5
-|###### heading level 6
+|**Nivel de encabezado**||
+|# heading level 1|     |
+|## heading level 2|     |
+|### heading level 3|     |
+|#### heading level 4|     |
+|##### heading level 5|     |
+|###### heading level 6|     |
+|**Negrita**||
+|Dos asteriscos al inicio y final de la palabra||
+|**Cursiva**||
+|Tres asteriscos al inicio y final||
+|**Enumerar**||
+|1. texto||
+|2. texto||
+|||
+|||
 
-## Workshop 4: Hello World
+## Workshop 4: Introduccion a C
+
+|Atajos||
+|---|---|
+|shift + ctrl + P|  abrir buscador|
+
+|Comandos| |
+|---|----|
+|cat .gitignore||
+|git push||
+|git pull||
+
+## Workshop 5: Hello World
 
 ```c
 #include <stdio.h>
@@ -55,7 +77,7 @@ void main()
 }
 ```
 
-## Workshop 5: Suma de numeros
+## Workshop 6: Suma de numeros
 
 ```c
 #include <stdio.h>
@@ -112,7 +134,7 @@ void main ()
 }
 ```
 
-## Workshop 6: Mayor de dos numeros
+## Workshop 7: Mayor de dos numeros
 
 ```c
 #include <stdio.h>
@@ -136,7 +158,7 @@ void main()
 }
 ```
 
-## Workshop 7: Bucles
+## Workshop 8: Bucles
 
 ```c
 #include <stdio.h>
@@ -181,7 +203,7 @@ int main()
 }
 ```
 
-## Workshop 8: Escalera
+## Workshop 9: Escalera
 
 ```c
 #include <stdio.h>
@@ -216,7 +238,7 @@ int main()
 }
 ```
 
-## Workshop 9: Array
+## Workshop 10: Array
 
 ```c
 #include <stdio.h>
@@ -301,7 +323,7 @@ void main ()
 }
 ```
 
-## Workshop 10: Matriz
+## Workshop 11: Matriz
 
 ```c
 #include <stdio.h>
@@ -340,7 +362,7 @@ void main ()
 }
 ```
 
-## Workshop 11: c++
+## Workshop 12: Introduccion a c++
 
 |c        |c++       |
 |---------|----------|
@@ -351,7 +373,7 @@ void main ()
 
 **Observacion:** Podemos usar "using namespace std;" al inicio para evitar usar "std ::".
 
-## Workshop 12: Archivos
+## Workshop 13: Archivos
 
 ```c
 #include <iostream>
