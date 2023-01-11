@@ -17,18 +17,18 @@
 
 ## Workshop 2: 15 Nov Git
 
-|Comandos | |
-|---------|----------|
-|git version||
-|pwd||
-|ls||
-|git init||
-|git status||
-|git add . ||
-|git add "file"/""||
-|echo "" >> .gitignore||
-|git confing --global user.name ""||
-|git confing --global user.email ""||
+|Comandos |
+|---------|
+|git version|
+|pwd|
+|ls|
+|git init|
+|git status|
+|git add . |
+|git add "file"/""|
+|echo "" >> .gitignore|
+|git confing --global user.name ""|
+|git confing --global user.email ""|
 
 ## Workshop 3: Markdown
 
@@ -42,27 +42,21 @@ En Markdown todos los archivos terminan en .md o .mdx.
 |#### heading level 4|     |
 |##### heading level 5|     |
 |###### heading level 6|     |
-|**Negrita**||
-|Dos asteriscos al inicio y final de la palabra||
-|**Cursiva**||
-|Tres asteriscos al inicio y final||
-|**Enumerar**||
-|1. texto||
-|2. texto||
-|||
-|||
+|**Negrita**|
+|Dos asteriscos al inicio y final de la palabra|
+|**Cursiva**|
+|Tres asteriscos al inicio y final|
+|**Enumerar**|
+|1. texto|
+|2. texto|
 
 ## Workshop 4: Introduccion a C
 
-|Atajos||
-|---|---|
-|shift + ctrl + P|  abrir buscador|
-
-|Comandos| |
-|---|----|
-|cat .gitignore||
-|git push||
-|git pull||
+|Comandos|
+|---|
+|cat .gitignore|
+|git push|
+|git pull|
 
 ## Workshop 5: Hello World
 
