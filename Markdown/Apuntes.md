@@ -33,15 +33,15 @@
 ## Workshop 3: Markdown
 
 En Markdown todos los archivos terminan en .md o .mdx.
-|Comandos||
-|---|---|
-|**Nivel de encabezado**||
-|# heading level 1|     |
-|## heading level 2|     |
-|### heading level 3|     |
-|#### heading level 4|     |
-|##### heading level 5|     |
-|###### heading level 6|     |
+|Comandos|
+|---|
+|**Nivel de encabezado**|
+|# heading level 1|
+|## heading level 2|
+|### heading level 3|
+|#### heading level 4|
+|##### heading level 5|
+|###### heading level 6|
 |**Negrita**|
 |Dos asteriscos al inicio y final de la palabra|
 |**Cursiva**|
